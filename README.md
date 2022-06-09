@@ -21,6 +21,10 @@ https://assetstore.unity.com/packages/3d/environments/fantasy/medieval-town-exte
 Unity Technologies
 https://assetstore.unity.com/packages/essentials/starter-assets-third-person-character-controller-196526
 
+### Starter Assets - First Person Character Controller
+Unity Technologies
+https://assetstore.unity.com/packages/essentials/starter-assets-first-person-character-controller-196525
+
 ### 3D Free Modular Kit
 Barking Dog
 https://assetstore.unity.com/packages/3d/environments/3d-free-modular-kit-85732

@@ -4,6 +4,15 @@ Este es el directorio "raiz" del proyecto.
 
 El código C# se encuentra en el directorio Scripts
 
+# Elementos auto generados
+
+Existen elementos generados de forma automática en el repositorio.
+
+Las mayores modificaciones creadas por @eacp se encuentran en Scripts, 
+Prefabs y en Scenes. También hay archivos
+De audio en Sound. Muchos archivos son 
+Generados por unity al importar 
+el paquete standard assets - first person.
 
 ## Nota del "otro readme"
 

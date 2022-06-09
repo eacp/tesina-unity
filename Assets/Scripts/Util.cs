@@ -1,5 +1,6 @@
 ﻿internal class Util
 {
+    // https://stackoverflow.com/questions/273313/randomize-a-listt
     internal static void Shuffle<T>(T[] array)
     {
         // Create a random num gen
